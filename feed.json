@@ -1,0 +1,26 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "哈希豪的小站",
+    "home_page_url": "https://haxihao.github.io/",
+    "feed_url": "https://haxihao.github.io/feed.json",
+    "description": "哈希豪的什么什么···",
+    "icon": "https://haxihao.github.io/haxihao.jpg",
+    "author": {
+        "name": "哈希豪",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<div style=\"text-align: center\">\n    <h4>烟花散尽还复来</h4>\n    <h4>美景皆在房门外</h4>\n    <h4>屋内景象如静止</h4>\n<br/><p>访问 <a href=\"https://haxihao.github.io/posts/hello-valaxy\" target=\"_blank\">https://haxihao.github.io/posts/hello-valaxy</a> 阅读全文。</p>",
+            "url": "https://haxihao.github.io/posts/hello-valaxy",
+            "title": "新年",
+            "date_modified": "2024-02-09T00:00:00.000Z",
+            "date_published": "2024-02-09T00:00:00.000Z",
+            "author": {
+                "name": "哈希豪",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
