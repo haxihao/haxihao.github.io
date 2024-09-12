@@ -1,0 +1,1 @@
+import{U as i,au as u,av as l}from"./app-pzrIQ4ao.js";function r(e){const s=i(!1),{top:o}=u(e);return l(e,([{isIntersecting:n}])=>{s.value=n}),{show:()=>{s.value||window.scrollTo(0,o.value)}}}export{r as u};
