@@ -2,6 +2,7 @@ import { defineValaxyConfig } from "valaxy"
 import type { UserThemeConfig } from "valaxy-theme-yun"
 import { addonLive2d } from 'valaxy-addon-live2d'
 import { addonMeting } from 'valaxy-addon-meting'
+import { addonWaline } from 'valaxy-addon-waline'
 
 // add icons what you will need
 const safelist = [
@@ -42,7 +43,7 @@ export default defineValaxyConfig<UserThemeConfig>({
                 server: 'netease',
                 type: 'playlist',
                 mini: true,
-                autoplay: true,
+                autoplay: false,
                 order: "random",
                 volume: 1,
             },
@@ -50,6 +51,9 @@ export default defineValaxyConfig<UserThemeConfig>({
                 animationIn: true,
                 autoHidden: true
             }
+        }),
+        addonWaline({
+            serverURL: '接口还没好，哈哈哈',
         }),
     ],
 
