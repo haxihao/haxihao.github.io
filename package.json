@@ -1,0 +1,25 @@
+{
+  "name": "haxihao",
+  "type": "module",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "build": "npm run build:ssg",
+    "build:spa": "valaxy build",
+    "build:ssg": "valaxy build --ssg",
+    "dev": "valaxy",
+    "rss": "valaxy rss",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "valaxy": "0.19.9",
+    "valaxy-addon-live2d": "^0.2.2",
+    "valaxy-addon-meting": "^0.1.3",
+    "valaxy-addon-twikoo": "^0.0.3",
+    "valaxy-addon-waline": "^0.2.0",
+    "valaxy-theme-yun": "0.19.9"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}

@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://haxihao.github.io/sitemap.xml
