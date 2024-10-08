@@ -2,7 +2,7 @@ import { defineSiteConfig } from "valaxy"
 
 export default defineSiteConfig({
     lang: "zh-CN",
-    url: "https://haxihao.github.io/",
+    // url: "https://haxihao.github.io/",
     title: "哈希豪的小站",
     subtitle: "和有趣的人，做有趣的事",
     description: "哈希豪的什么什么···",
