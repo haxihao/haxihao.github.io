@@ -11,6 +11,12 @@ importers:
       valaxy:
         specifier: 0.19.9
         version: 0.19.9(@babel/parser@7.25.4)(@types/markdown-it@14.1.2)(@types/node@22.5.1)(axios@1.7.5)(postcss@8.4.45)(rollup@4.21.1)(typescript@5.5.4)
+      valaxy-addon-components:
+        specifier: ^0.0.2
+        version: 0.0.2
+      valaxy-addon-hitokoto:
+        specifier: ^0.0.1
+        version: 0.0.1
       valaxy-addon-live2d:
         specifier: ^0.2.2
         version: 0.2.2(hpwoupxvv2hzcgdiwfnco3zj5y)
@@ -3178,6 +3184,12 @@ packages:
     resolution: {integrity: sha512-+g8ENReyr8YsOc6fv/NVJs2vFdHBnBNdfE49rshrTzDWOlUx4Gq7KOS2GD8eqhy2j+Ejq29+SbKH8yjkAqXqoA==}
     engines: {node: '>=8'}
     hasBin: true
+
+  valaxy-addon-components@0.0.2:
+    resolution: {integrity: sha512-J6JeNTagohF9fNvYaYiOwVHQGuhoWamy1P01mEUfzreacaJ3CqzJU1G/uSFMTvm3CXvMo8OAQCwqa+OqBG0dkw==}
+
+  valaxy-addon-hitokoto@0.0.1:
+    resolution: {integrity: sha512-N+1dl3gwxeoTraT+r7gvNfTUHIjapBNHXj/urILdKQFfji++s7ELqeCNoyyOLUpvLJJOPSfObkJ9MKDsfCm8FA==}
 
   valaxy-addon-live2d@0.2.2:
     resolution: {integrity: sha512-se4yI3fbq4s1IaqKqfnCRabdeHUfUMWFvPXQJpEVtpv7As2EwT7IIYZK/82W8VEVvEalX+NKMdPeZHgNC/MVhQ==}
@@ -6788,6 +6800,10 @@ snapshots:
       diff: 5.2.0
       kleur: 4.1.5
       sade: 1.8.1
+
+  valaxy-addon-components@0.0.2: {}
+
+  valaxy-addon-hitokoto@0.0.1: {}
 
   valaxy-addon-live2d@0.2.2(hpwoupxvv2hzcgdiwfnco3zj5y):
     dependencies:
