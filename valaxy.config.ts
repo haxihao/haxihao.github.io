@@ -4,7 +4,6 @@ import { addonLive2d } from 'valaxy-addon-live2d' // 看板娘
 import { addonMeting } from 'valaxy-addon-meting' // 音乐播放器
 import { addonWaline } from 'valaxy-addon-waline' // 评论
 import { addonComponents } from 'valaxy-addon-components' // 通用组件
-import { addonHitokoto } from 'valaxy-addon-hitokoto' // 一言
 
 const safelist = [
     "i-ri-home-2-line",
@@ -55,8 +54,6 @@ export default defineValaxyConfig<UserThemeConfig>({
         }),
         // 通用组件
         addonComponents(),
-        // 一言
-        addonHitokoto(),
     ],
 
     theme: "yun",

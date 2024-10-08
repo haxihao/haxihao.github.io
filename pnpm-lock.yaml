@@ -14,9 +14,6 @@ importers:
       valaxy-addon-components:
         specifier: ^0.0.2
         version: 0.0.2
-      valaxy-addon-hitokoto:
-        specifier: ^0.0.1
-        version: 0.0.1
       valaxy-addon-live2d:
         specifier: ^0.2.2
         version: 0.2.2(hpwoupxvv2hzcgdiwfnco3zj5y)
@@ -3187,9 +3184,6 @@ packages:
 
   valaxy-addon-components@0.0.2:
     resolution: {integrity: sha512-J6JeNTagohF9fNvYaYiOwVHQGuhoWamy1P01mEUfzreacaJ3CqzJU1G/uSFMTvm3CXvMo8OAQCwqa+OqBG0dkw==}
-
-  valaxy-addon-hitokoto@0.0.1:
-    resolution: {integrity: sha512-N+1dl3gwxeoTraT+r7gvNfTUHIjapBNHXj/urILdKQFfji++s7ELqeCNoyyOLUpvLJJOPSfObkJ9MKDsfCm8FA==}
 
   valaxy-addon-live2d@0.2.2:
     resolution: {integrity: sha512-se4yI3fbq4s1IaqKqfnCRabdeHUfUMWFvPXQJpEVtpv7As2EwT7IIYZK/82W8VEVvEalX+NKMdPeZHgNC/MVhQ==}
@@ -6802,8 +6796,6 @@ snapshots:
       sade: 1.8.1
 
   valaxy-addon-components@0.0.2: {}
-
-  valaxy-addon-hitokoto@0.0.1: {}
 
   valaxy-addon-live2d@0.2.2(hpwoupxvv2hzcgdiwfnco3zj5y):
     dependencies:
