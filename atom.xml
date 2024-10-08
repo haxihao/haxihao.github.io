@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://haxihao.github.io/</id>
+    <title>哈希豪的小站</title>
+    <updated>2024-10-08T08:25:21.095Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>哈希豪</name>
+        <email>1214110654@qq.com</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://haxihao.github.io/"/>
+    <link rel="self" href="https://haxihao.github.io/atom.xml"/>
+    <subtitle>哈希豪的什么什么···</subtitle>
+    <logo>https://haxihao.github.io/haxihao.jpg</logo>
+    <icon>https://haxihao.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 哈希豪</rights>
+    <entry>
+        <title type="html"><![CDATA[送别]]></title>
+        <id>https://haxihao.github.io/posts/2024-09/see-sb-off</id>
+        <link href="https://haxihao.github.io/posts/2024-09/see-sb-off"/>
+        <updated>2024-09-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div style="text-align: center">
+    <h4>一封家书百人抵</h4>
+    <h4>有人嬉笑有人泣</h4>
+    <h4>青烟扶摇入风里</h4>
+<br/><p>访问 <a href="https://haxihao.github.io/posts/2024-09/see-sb-off" target="_blank">https://haxihao.github.io/posts/2024-09/see-sb-off</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>哈希豪</name>
+            <email>1214110654@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-09-26T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[武汉行]]></title>
+        <id>https://haxihao.github.io/posts/2023-03/Wuhan-trip</id>
+        <link href="https://haxihao.github.io/posts/2023-03/Wuhan-trip"/>
+        <updated>2023-03-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div style="text-align: center">
+    <h4>郁郁葱葱一片楼</h4>
+    <h4>熙熙攘攘万千苟</h4>
+    <h4>摇摇晃晃一壶酒</h4>
+<br/><p>访问 <a href="https://haxihao.github.io/posts/2023-03/Wuhan-trip" target="_blank">https://haxihao.github.io/posts/2023-03/Wuhan-trip</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>哈希豪</name>
+            <email>1214110654@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-01T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[新年]]></title>
+        <id>https://haxihao.github.io/posts/2024-02/new-year</id>
+        <link href="https://haxihao.github.io/posts/2024-02/new-year"/>
+        <updated>2024-02-09T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div style="text-align: center">
+    <h4>烟花散尽还复来</h4>
+    <h4>美景皆在房门外</h4>
+    <h4>屋内景象如静止</h4>
+<br/><p>访问 <a href="https://haxihao.github.io/posts/2024-02/new-year" target="_blank">https://haxihao.github.io/posts/2024-02/new-year</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>哈希豪</name>
+            <email>1214110654@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-02-09T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[十一有感]]></title>
+        <id>https://haxihao.github.io/posts/2020-10/eleven</id>
+        <link href="https://haxihao.github.io/posts/2020-10/eleven"/>
+        <updated>2020-10-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<div style="text-align: center">
+    <h4>千里征途把家来</h4>
+    <h4>体型佝偻鬓毛衰</h4>
+    <h4>烛台相框新添客</h4>
+<br/><p>访问 <a href="https://haxihao.github.io/posts/2020-10/eleven" target="_blank">https://haxihao.github.io/posts/2020-10/eleven</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>哈希豪</name>
+            <email>1214110654@qq.com</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2020-10-05T00:00:00.000Z</published>
+    </entry>
+</feed>

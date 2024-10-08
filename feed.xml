@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>哈希豪的小站</title>
+        <link>https://haxihao.github.io/</link>
+        <description>哈希豪的什么什么···</description>
+        <lastBuildDate>Tue, 08 Oct 2024 08:25:21 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>哈希豪的小站</title>
+            <url>https://haxihao.github.io/haxihao.jpg</url>
+            <link>https://haxihao.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2024 © 哈希豪</copyright>
+        <atom:link href="https://haxihao.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[送别]]></title>
+            <link>https://haxihao.github.io/posts/2024-09/see-sb-off</link>
+            <guid>https://haxihao.github.io/posts/2024-09/see-sb-off</guid>
+            <pubDate>Thu, 26 Sep 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="text-align: center">
+    <h4>一封家书百人抵</h4>
+    <h4>有人嬉笑有人泣</h4>
+    <h4>青烟扶摇入风里</h4>
+<br/><p>访问 <a href="https://haxihao.github.io/posts/2024-09/see-sb-off" target="_blank">https://haxihao.github.io/posts/2024-09/see-sb-off</a> 阅读全文。</p>]]></content:encoded>
+            <author>1214110654@qq.com (哈希豪)</author>
+        </item>
+        <item>
+            <title><![CDATA[武汉行]]></title>
+            <link>https://haxihao.github.io/posts/2023-03/Wuhan-trip</link>
+            <guid>https://haxihao.github.io/posts/2023-03/Wuhan-trip</guid>
+            <pubDate>Fri, 01 Mar 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="text-align: center">
+    <h4>郁郁葱葱一片楼</h4>
+    <h4>熙熙攘攘万千苟</h4>
+    <h4>摇摇晃晃一壶酒</h4>
+<br/><p>访问 <a href="https://haxihao.github.io/posts/2023-03/Wuhan-trip" target="_blank">https://haxihao.github.io/posts/2023-03/Wuhan-trip</a> 阅读全文。</p>]]></content:encoded>
+            <author>1214110654@qq.com (哈希豪)</author>
+        </item>
+        <item>
+            <title><![CDATA[新年]]></title>
+            <link>https://haxihao.github.io/posts/2024-02/new-year</link>
+            <guid>https://haxihao.github.io/posts/2024-02/new-year</guid>
+            <pubDate>Fri, 09 Feb 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="text-align: center">
+    <h4>烟花散尽还复来</h4>
+    <h4>美景皆在房门外</h4>
+    <h4>屋内景象如静止</h4>
+<br/><p>访问 <a href="https://haxihao.github.io/posts/2024-02/new-year" target="_blank">https://haxihao.github.io/posts/2024-02/new-year</a> 阅读全文。</p>]]></content:encoded>
+            <author>1214110654@qq.com (哈希豪)</author>
+        </item>
+        <item>
+            <title><![CDATA[十一有感]]></title>
+            <link>https://haxihao.github.io/posts/2020-10/eleven</link>
+            <guid>https://haxihao.github.io/posts/2020-10/eleven</guid>
+            <pubDate>Mon, 05 Oct 2020 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="text-align: center">
+    <h4>千里征途把家来</h4>
+    <h4>体型佝偻鬓毛衰</h4>
+    <h4>烛台相框新添客</h4>
+<br/><p>访问 <a href="https://haxihao.github.io/posts/2020-10/eleven" target="_blank">https://haxihao.github.io/posts/2020-10/eleven</a> 阅读全文。</p>]]></content:encoded>
+            <author>1214110654@qq.com (哈希豪)</author>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,62 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "哈希豪的小站",
+    "home_page_url": "https://haxihao.github.io/",
+    "feed_url": "https://haxihao.github.io/feed.json",
+    "description": "哈希豪的什么什么···",
+    "icon": "https://haxihao.github.io/haxihao.jpg",
+    "author": {
+        "name": "哈希豪",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<div style=\"text-align: center\">\n    <h4>一封家书百人抵</h4>\n    <h4>有人嬉笑有人泣</h4>\n    <h4>青烟扶摇入风里</h4>\n<br/><p>访问 <a href=\"https://haxihao.github.io/posts/2024-09/see-sb-off\" target=\"_blank\">https://haxihao.github.io/posts/2024-09/see-sb-off</a> 阅读全文。</p>",
+            "url": "https://haxihao.github.io/posts/2024-09/see-sb-off",
+            "title": "送别",
+            "date_modified": "2024-09-26T00:00:00.000Z",
+            "date_published": "2024-09-26T00:00:00.000Z",
+            "author": {
+                "name": "哈希豪",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<div style=\"text-align: center\">\n    <h4>郁郁葱葱一片楼</h4>\n    <h4>熙熙攘攘万千苟</h4>\n    <h4>摇摇晃晃一壶酒</h4>\n<br/><p>访问 <a href=\"https://haxihao.github.io/posts/2023-03/Wuhan-trip\" target=\"_blank\">https://haxihao.github.io/posts/2023-03/Wuhan-trip</a> 阅读全文。</p>",
+            "url": "https://haxihao.github.io/posts/2023-03/Wuhan-trip",
+            "title": "武汉行",
+            "date_modified": "2023-03-01T00:00:00.000Z",
+            "date_published": "2024-03-01T00:00:00.000Z",
+            "author": {
+                "name": "哈希豪",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<div style=\"text-align: center\">\n    <h4>烟花散尽还复来</h4>\n    <h4>美景皆在房门外</h4>\n    <h4>屋内景象如静止</h4>\n<br/><p>访问 <a href=\"https://haxihao.github.io/posts/2024-02/new-year\" target=\"_blank\">https://haxihao.github.io/posts/2024-02/new-year</a> 阅读全文。</p>",
+            "url": "https://haxihao.github.io/posts/2024-02/new-year",
+            "title": "新年",
+            "date_modified": "2024-02-09T00:00:00.000Z",
+            "date_published": "2024-02-09T00:00:00.000Z",
+            "author": {
+                "name": "哈希豪",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<div style=\"text-align: center\">\n    <h4>千里征途把家来</h4>\n    <h4>体型佝偻鬓毛衰</h4>\n    <h4>烛台相框新添客</h4>\n<br/><p>访问 <a href=\"https://haxihao.github.io/posts/2020-10/eleven\" target=\"_blank\">https://haxihao.github.io/posts/2020-10/eleven</a> 阅读全文。</p>",
+            "url": "https://haxihao.github.io/posts/2020-10/eleven",
+            "title": "十一有感",
+            "date_modified": "2020-10-05T00:00:00.000Z",
+            "date_published": "2020-10-05T00:00:00.000Z",
+            "author": {
+                "name": "哈希豪",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}
