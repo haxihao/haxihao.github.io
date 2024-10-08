@@ -1,19 +1,16 @@
-import { defineValaxyConfig } from "valaxy"
-import type { UserThemeConfig } from "valaxy-theme-yun"
-import { addonLive2d } from 'valaxy-addon-live2d'
-import { addonMeting } from 'valaxy-addon-meting'
-import { addonWaline } from 'valaxy-addon-waline'
+import { defineValaxyConfig } from "valaxy" // valaxy框架
+import type { UserThemeConfig } from "valaxy-theme-yun" // 主题
+import { addonLive2d } from 'valaxy-addon-live2d' // 看板娘
+import { addonMeting } from 'valaxy-addon-meting' // 音乐播放器
+import { addonWaline } from 'valaxy-addon-waline' // 评论
+import { addonComponents } from 'valaxy-addon-components' // 通用组件
+import { addonHitokoto } from 'valaxy-addon-hitokoto' // 一言
 
-// add icons what you will need
 const safelist = [
     "i-ri-home-2-line",
 ]
 
-/**
- * User Config
- */
 export default defineValaxyConfig<UserThemeConfig>({
-
     siteConfig: {
         // 启用评论
         comment: {
@@ -52,18 +49,19 @@ export default defineValaxyConfig<UserThemeConfig>({
                 autoHidden: true
             }
         }),
+        // 评论
         addonWaline({
             serverURL: '接口还没好，哈哈哈',
         }),
+        // 通用组件
+        addonComponents(),
+        // 一言
+        addonHitokoto(),
     ],
 
-    // site config see site.config.ts
     theme: "yun",
 
     themeConfig: {
-
-        // toc title
-        outlineTitle: "On this page",
 
         // 主题色
         colors: {
