@@ -9,7 +9,7 @@ importers:
   .:
     dependencies:
       valaxy:
-        specifier: ^0.19.9
+        specifier: 0.19.9
         version: 0.19.9(@babel/parser@7.25.4)(@types/markdown-it@14.1.2)(@types/node@22.5.1)(axios@1.7.5)(postcss@8.4.45)(rollup@4.21.1)(typescript@5.5.4)
       valaxy-addon-live2d:
         specifier: ^0.2.2
