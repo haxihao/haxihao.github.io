@@ -6,6 +6,6 @@ links: ./links.json
 random: true
 ---
 
-<a href="https://www.yunyoujun.cn/" target="_blank">云游君的小站</a><br/>
-<a href="https://www.baby7blog.com" target="_blank">七仔的博客</a><br/>
+<a href="https://www.yunyoujun.cn/" target="_blank">云游君的小站</a>
+<a href="https://baby7.github.io/" target="_blank">七仔的博客</a>
 <a target="_blank">二叉松的博客</a>
